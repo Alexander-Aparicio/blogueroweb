@@ -406,7 +406,7 @@ a{color: var(--clink);}
     align-items: center;
     padding-right: 10%;
     padding-left: 10%;
-    background: rgba(69, 62, 64, 0.81);
+    background: rgba(56, 119, 128, 0.81);
     z-index: 999;
 }
 .menu{
@@ -419,11 +419,11 @@ a{color: var(--clink);}
 }
 .title-menu a{
     color: var(--cWhite);
-    font-family: nunito-r;
+    font-family: var(--p);
 }
 .option-menu{
     color: var(--cWhite);
-    font-family: nunito-r;
+    font-family:var(--brandingAlter);
     width: 243px;
     height: 40px;
     background: var(--bsecondary);
