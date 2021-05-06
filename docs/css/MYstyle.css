@@ -91,6 +91,16 @@ article .mainTitle{
 article h1, article h2, article h3, article h4 {
     color: var(--bgElement1);
 }
+.hostings section {
+    padding: 15px;
+    background: #f4f4f4 ;
+    border: solid 0.5px #3a3a3a;
+    margin-left: 15px;
+}
+.hostings ul{
+    margin-bottom: 15px;
+}
+
 /* BANNER */
 .main .banner{
     padding-top: 16vh;
@@ -324,6 +334,17 @@ article h1, article h2, article h3, article h4 {
     .img-enriquecer-web{
         width: 600px;
         margin: auto;
+    }
+    /* ARTICLE HOY QUÉ ES LO MÁS IMPORTANTE */
+    .img-designer{
+        width: 500px;
+        margin: auto;
+    }
+    /* ARTICLE QUÉ DEBO SABER ANTES DE TENER MI WEB */
+    .img-hosting{
+        width: 270px;
+        margin: auto;
+        margin-top: 20px;
     }
 }
 @media screen and (min-width:1000px){
