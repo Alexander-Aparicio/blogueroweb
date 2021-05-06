@@ -423,7 +423,7 @@ a{color: var(--clink);}
 }
 .option-menu{
     color: var(--cWhite);
-    font-family:var(--brandingAlter);
+    font-family:var(--p);
     width: 243px;
     height: 40px;
     background: var(--bsecondary);
@@ -431,6 +431,7 @@ a{color: var(--clink);}
     align-items: center;
     justify-content: center;
     border:solid 1px var(--cWhite);
+    font-size: 27px;
 }
 /* ANIMATION */
 .opacity-open{
