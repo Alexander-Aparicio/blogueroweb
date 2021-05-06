@@ -321,6 +321,10 @@ article h1, article h2, article h3, article h4 {
         height: 230px;
         width: auto;
     }
+    .img-enriquecer-web{
+        width: 600px;
+        margin: auto;
+    }
 }
 @media screen and (min-width:1000px){
     .btns-door{
