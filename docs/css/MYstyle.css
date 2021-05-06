@@ -330,6 +330,16 @@ article h1, article h2, article h3, article h4 {
     font-size: 1.7rem;
     font-family: var(--p);
 }
+/* CLASTER05 */
+.claster05 div{
+    width: 200px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.claster05 div figure{
+    background: transparent;
+}
 /* ARTICLE CUANTO CUESTA UN SITIO WEB EN PERÚ */
 .text-img figure{
     max-width: 250px;
