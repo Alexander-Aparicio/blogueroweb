@@ -301,6 +301,45 @@ article h1, article h2, article h3, article h4 {
     filter: opacity(1);
     pointer-events: auto;
 }
+/* CLASTER 03 */
+.claster03{
+    grid-column-gap: 30px;
+    margin-top: 10px !important;
+}
+.claster03 .container-card03{
+    align-items: center;
+    padding: 10%;
+}
+.claster03 .container-card03 .card{
+    background: transparent;
+}
+/* CLASTER 04 */
+.claster04{
+    grid-column-gap: 30px;
+    margin-top: 10px !important;
+}
+.claster04 .container-card04{
+    align-items: flex-end;
+}
+.claster04 .container-card04 .card{
+    background: transparent;
+    padding: 10%;
+}
+.claster04 .container-card04 .card figcaption{
+    color: var(--ctexto3);
+    font-size: 1.7rem;
+    font-family: var(--p);
+}
+/* ARTICLE CUANTO CUESTA UN SITIO WEB EN PERÚ */
+.text-img figure{
+    max-width: 250px;
+}
+@media screen and (min-width:850px){
+    .text-img p{
+        max-width: 60%;
+    }
+}
+
 /* DOOR-DINAMICS */
 .container-door{
     background: transparent;
@@ -345,6 +384,7 @@ article h1, article h2, article h3, article h4 {
         width: 270px;
         margin: auto;
         margin-top: 20px;
+        margin-bottom: 15px;
     }
 }
 @media screen and (min-width:1000px){
