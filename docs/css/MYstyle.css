@@ -94,7 +94,7 @@ article h1, article h2, article h3, article h4 {
 /* BANNER */
 .main .banner{
     padding-top: 16vh;
-    padding-bottom: 40px;
+    padding-bottom: 55px;
     height: 100vh;
     max-height: 745px;
     grid-row-gap: 20px;
