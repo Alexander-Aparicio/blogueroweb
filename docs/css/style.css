@@ -59,7 +59,7 @@ img{width: 100%; height: auto;}
     --branding: permanent-market;
     --brandingAlter:salsa;
     /* max-min-width-window */
-    --maxWidth:1600px;
+    --maxWidth:1920px;
     --minWidth:250px;
     /* img-banner */
     --banner: url('../img/banner.jpg');

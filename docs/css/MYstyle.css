@@ -1,3 +1,5 @@
+body{background: var(--bgElement2);}
+.main{background: var(--bgGlobal);}
 strong{font-size: 19px;}
 @media screen and (min-width:900px){
     h2, h3, h4{
@@ -339,6 +341,11 @@ article h1, article h2, article h3, article h4 {
 }
 .claster05 div figure{
     background: transparent;
+}
+.claster05 div figure figcaption{
+    color: var(--ctexto1);
+    font-size: 1.7rem;
+    font-weight: bold;
 }
 /* ARTICLE CUANTO CUESTA UN SITIO WEB EN PERÚ */
 .text-img figure{
